@@ -1,7 +1,7 @@
 from telebot import types
 import telebot
 
-bot = telebot.TeleBot("TOKEN")
+bot = telebot.TeleBot("8369232981:AAHge7FHGbqRrs0yVD-aP8T5yTSOYMcoWJM")
 
 
 # /start komandasi
